@@ -28,7 +28,7 @@
             "last_commit": "2026-02-11T04:50:03Z",
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18114
+            "stars": 18113
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13054
+            "stars": 13053
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2023-04-12T23:07:45Z",
             "owner": "liady",
             "repo": "ChatGPT-pdf",
-            "stars": 1480
+            "stars": 1479
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2023-10-23T09:53:08Z",
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6265
+            "stars": 6264
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2023-04-10T07:55:38Z",
             "owner": "m1guelpf",
             "repo": "chatgpt-telegram",
-            "stars": 3888
+            "stars": 3887
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2024-03-08T18:42:45Z",
             "owner": "shobrook",
             "repo": "adrenaline",
-            "stars": 3744
+            "stars": 3743
           }
         },
         {
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:38:23.470Z",
+    "last_updated": "2026-08-13T13:20:01.207Z",
     "original_repository": "humanloop/awesome-chatgpt",
     "original_repository_sha": "cbc3e0d366cc8541b3efea62e333100563f7a7c6",
     "enhanced_repository": "enhansome/enhansome-chatgpt",

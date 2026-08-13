@@ -1,0 +1,661 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unofficial API in Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-02T06:02:10Z",
+            "owner": "acheong08",
+            "repo": "ChatGPT",
+            "stars": 27903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial API in JS/TS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T04:50:03Z",
+            "owner": "transitive-bullshit",
+            "repo": "agentic",
+            "stars": 18114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLS-based API (Python)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T08:13:04Z",
+            "owner": "rawandahmad698",
+            "repo": "PyChatGPT",
+            "stars": 4179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial API in Dart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-12-06T18:23:38Z",
+            "owner": "MisterJimson",
+            "repo": "chatgpt_api_dart",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT (GPT-3.5-turbo) API Client in Golang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-04-01T10:20:10Z",
+            "owner": "AlmazDelDiablo",
+            "repo": "gpt3-5-turbo-go",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "API tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Extension to display ChatGPT response alongside Google Search results",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-14T17:49:27Z",
+            "owner": "wong2",
+            "repo": "chatgpt-google-extension",
+            "stars": 13054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebChatGPT - augment your prompts to ChatGPT with web search results",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-13T16:34:44Z",
+            "owner": "interstellard",
+            "repo": "chatgpt-advanced",
+            "stars": 6450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talk to ChatGPT (voice interface)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-19T11:08:59Z",
+            "owner": "C-Nedelcu",
+            "repo": "talk-to-chatgpt",
+            "stars": 1928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-12T23:07:45Z",
+            "owner": "liady",
+            "repo": "ChatGPT-pdf",
+            "stars": 1480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome extension to access ChatGPT as a popup on any page",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-06-02T12:49:55Z",
+            "owner": "kazuki-sf",
+            "repo": "ChatGPT_Extension",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-04T16:33:48Z",
+            "owner": "idosal",
+            "repo": "assistant-chat-gpt",
+            "stars": 240
+          }
+        }
+      ],
+      "title": "Chrome Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-platform desktop app (Windows, Mac, Linux)",
+          "description": "powered by ChatGPT & Tauri",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-29T17:58:11Z",
+            "owner": "lencx",
+            "repo": "ChatGPT",
+            "stars": 54439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mac menubar app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-10-23T09:53:08Z",
+            "owner": "vincelwt",
+            "repo": "chatgpt-mac",
+            "stars": 6265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCode extension",
+          "description": "(demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-29T18:27:16Z",
+            "owner": "mpociot",
+            "repo": "chatgpt-vscode",
+            "stars": 4927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neovim plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-13T09:57:07Z",
+            "owner": "jackMort",
+            "repo": "ChatGPT.nvim",
+            "stars": 3997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Telegram bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-10T07:55:38Z",
+            "owner": "m1guelpf",
+            "repo": "chatgpt-telegram",
+            "stars": 3888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhatsApp bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-26T17:22:52Z",
+            "owner": "danielgross",
+            "repo": "whatsapp-gpt",
+            "stars": 3058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows, Mac, Linux desktop app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-23T19:38:01Z",
+            "owner": "sonnylazuardi",
+            "repo": "chat-ai-desktop",
+            "stars": 1998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs org-mode package",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-01-07T11:11:04Z",
+            "owner": "rksm",
+            "repo": "org-ai",
+            "stars": 821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Bot",
+          "description": "powered by ChatGPT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-22T19:49:32Z",
+            "owner": "transitive-bullshit",
+            "repo": "chatgpt-twitter-bot",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-06-26T20:17:56Z",
+            "owner": "cesarhuret",
+            "repo": "docGPT",
+            "stars": 670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RayCast Extension (unofficial)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-02T12:06:50Z",
+            "owner": "abielzulio",
+            "repo": "chatgpt-raycast",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-06-02T12:49:55Z",
+            "owner": "kazuki-sf",
+            "repo": "ChatGPT_Extension",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT for Slack Bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-10T11:54:18Z",
+            "owner": "pedrorito",
+            "repo": "ChatGPTSlackBot",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Telegram bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-22T13:20:40Z",
+            "owner": "franalgaba",
+            "repo": "chatgpt-telegram-bot-serverless",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT for Discord Bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-12-20T20:25:56Z",
+            "owner": "m1guelpf",
+            "repo": "chatgpt-discord",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jetbrains IDEs plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-03-30T15:19:01Z",
+            "owner": "LiLittleCat",
+            "repo": "intellij-chatgpt",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "Access ChatGPT from other platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adrenaline: Debugger that fixes errors and explains them with GPT-3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-08T18:42:45Z",
+            "owner": "shobrook",
+            "repo": "adrenaline",
+            "stars": 3744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-31T02:24:24Z",
+            "owner": "trzy",
+            "repo": "ChatARKit",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT3 Blog Post Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-06T15:08:10Z",
+            "owner": "simplysabir",
+            "repo": "AI-Writing-Assistant",
+            "stars": 162
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Explain your runtime errors with ChatGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T22:03:43Z",
+            "owner": "shobrook",
+            "repo": "wut",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Use ChatGPT to generate PPT automatically, all in one single file",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-27T15:07:57Z",
+            "owner": "williamfzc",
+            "repo": "chat-gpt-ppt",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice-based chatGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-06T09:19:40Z",
+            "owner": "platelminto",
+            "repo": "chatgpt-conversation",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Commit - Automagically generate conventional commit messages with AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T21:11:54Z",
+            "owner": "guanguans",
+            "repo": "ai-commit",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Assistant CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-21T23:34:56Z",
+            "owner": "diciaup",
+            "repo": "assistant-cli",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearchGPT: Connecting ChatGPT with the Internet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-11T01:58:46Z",
+            "owner": "tobiasbueschel",
+            "repo": "search-gpt",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT3 WordPress post generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-17T08:47:03Z",
+            "owner": "nicolaballotta",
+            "repo": "gpt3-wordpress-post-generator",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptform: Run GPT in bulk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-27T15:16:33Z",
+            "owner": "jasonstitt",
+            "repo": "promptform",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "CLI tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI-powered Infrastructure-as-Code Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-24T10:56:24Z",
+            "owner": "gofireflyio",
+            "repo": "aiac",
+            "stars": 3785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes and Prometheus ChatGPT Bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-21T10:01:31Z",
+            "owner": "robusta-dev",
+            "repo": "kubernetes-chatgpt-bot",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT Code Review",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-09T18:16:11Z",
+            "owner": "kxxt",
+            "repo": "chatgpt-action",
+            "stars": 575
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Beelzebub ChatGPT Honeypot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T07:39:18Z",
+            "owner": "beelzebub-labs",
+            "repo": "beelzebub",
+            "stars": 2144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Penetration Testing Findings Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T05:32:05Z",
+            "owner": "Stratus-Security",
+            "repo": "FinGen",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Cybersecurity"
+    },
+    {
+      "description": "This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.",
+      "items": [],
+      "title": "Contribution"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:38:23.470Z",
+    "original_repository": "humanloop/awesome-chatgpt",
+    "original_repository_sha": "cbc3e0d366cc8541b3efea62e333100563f7a7c6",
+    "enhanced_repository": "enhansome/enhansome-chatgpt",
+    "enhanced_repository_description": null,
+    "title": "Awesome ChatGPT with stars"
+  }
+}

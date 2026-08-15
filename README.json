@@ -42,7 +42,7 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4179
+            "stars": 4180
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-08-13T16:34:44Z",
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6448
+            "stars": 6445
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54434
+            "stars": 54438
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2023-04-10T07:55:38Z",
             "owner": "m1guelpf",
             "repo": "chatgpt-telegram",
-            "stars": 3886
+            "stars": 3887
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2025-03-06T15:08:10Z",
             "owner": "simplysabir",
             "repo": "AI-Writing-Assistant",
-            "stars": 162
+            "stars": 163
           }
         }
       ],
@@ -458,7 +458,7 @@
             "last_commit": "2024-12-20T22:03:43Z",
             "owner": "shobrook",
             "repo": "wut",
-            "stars": 1426
+            "stars": 1427
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2024-11-21T10:01:31Z",
             "owner": "robusta-dev",
             "repo": "kubernetes-chatgpt-bot",
-            "stars": 917
+            "stars": 916
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-11T07:39:18Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2145
+            "stars": 2148
           }
         },
         {
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T13:14:38.282Z",
+    "last_updated": "2026-08-15T12:43:44.311Z",
     "original_repository": "humanloop/awesome-chatgpt",
     "original_repository_sha": "cbc3e0d366cc8541b3efea62e333100563f7a7c6",
     "enhanced_repository": "enhansome/enhansome-chatgpt",

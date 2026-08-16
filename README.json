@@ -14,7 +14,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27900
+            "stars": 27901
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4180
+            "stars": 4181
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13052
+            "stars": 13050
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54438
+            "stars": 54450
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2024-05-02T12:06:50Z",
             "owner": "abielzulio",
             "repo": "chatgpt-raycast",
-            "stars": 614
+            "stars": 613
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2023-03-27T15:07:57Z",
             "owner": "williamfzc",
             "repo": "chat-gpt-ppt",
-            "stars": 918
+            "stars": 917
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-11T07:39:18Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2148
+            "stars": 2149
           }
         },
         {
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:43:44.311Z",
+    "last_updated": "2026-08-16T12:46:24.564Z",
     "original_repository": "humanloop/awesome-chatgpt",
     "original_repository_sha": "cbc3e0d366cc8541b3efea62e333100563f7a7c6",
     "enhanced_repository": "enhansome/enhansome-chatgpt",

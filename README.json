@@ -14,7 +14,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27901
+            "stars": 27904
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4181
+            "stars": 4182
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13050
+            "stars": 13049
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54450
+            "stars": 54445
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2023-10-23T09:53:08Z",
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6264
+            "stars": 6265
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2024-04-26T17:22:52Z",
             "owner": "danielgross",
             "repo": "whatsapp-gpt",
-            "stars": 3059
+            "stars": 3058
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2023-05-10T11:54:18Z",
             "owner": "pedrorito",
             "repo": "ChatGPTSlackBot",
-            "stars": 383
+            "stars": 382
           }
         },
         {
@@ -621,10 +621,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T07:39:18Z",
+            "last_commit": "2026-08-17T02:42:52Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2149
+            "stars": 2148
           }
         },
         {
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T12:46:24.564Z",
+    "last_updated": "2026-08-17T12:51:17.268Z",
     "original_repository": "humanloop/awesome-chatgpt",
     "original_repository_sha": "cbc3e0d366cc8541b3efea62e333100563f7a7c6",
     "enhanced_repository": "enhansome/enhansome-chatgpt",

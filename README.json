@@ -15,7 +15,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27905
+            "stars": 27902
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-02-11T04:50:03Z",
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18115
+            "stars": 18114
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4182
+            "stars": 4183
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13048
+            "stars": 13049
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54447
+            "stars": 54448
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2023-10-23T09:53:08Z",
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6265
+            "stars": 6264
           }
         },
         {
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:34.922Z",
+    "last_updated": "2026-08-20T12:56:05.823Z",
     "original_repository": "humanloop/awesome-chatgpt",
     "original_repository_id": 574097989,
     "original_repository_sha": "cbc3e0d366cc8541b3efea62e333100563f7a7c6",

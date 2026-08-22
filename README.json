@@ -15,7 +15,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27902
+            "stars": 27900
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13049
+            "stars": 13050
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54445
+            "stars": 54453
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2023-09-29T18:27:16Z",
             "owner": "mpociot",
             "repo": "chatgpt-vscode",
-            "stars": 4927
+            "stars": 4925
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-12-20T22:03:43Z",
             "owner": "shobrook",
             "repo": "wut",
-            "stars": 1425
+            "stars": 1424
           }
         },
         {
@@ -531,7 +531,7 @@
             "archived": false,
             "id": 595042098,
             "language": "PHP",
-            "last_commit": "2026-08-20T21:06:26Z",
+            "last_commit": "2026-08-21T21:08:47Z",
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 394
@@ -615,7 +615,7 @@
             "last_commit": "2026-03-24T10:56:24Z",
             "owner": "gofireflyio",
             "repo": "aiac",
-            "stars": 3785
+            "stars": 3786
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-21T02:42:34Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2152
+            "stars": 2154
           }
         },
         {
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T12:55:17.813Z",
+    "last_updated": "2026-08-22T12:46:17.076Z",
     "original_repository": "humanloop/awesome-chatgpt",
     "original_repository_id": 574097989,
     "original_repository_sha": "cbc3e0d366cc8541b3efea62e333100563f7a7c6",

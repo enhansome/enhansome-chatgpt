@@ -93,7 +93,7 @@
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,850 | 🐛 69 | 🌐 HTML | 📅 2026-08-24
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,848 | 🐛 69 | 🌐 HTML | 📅 2026-08-24
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***

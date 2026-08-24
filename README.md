@@ -36,11 +36,11 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,454 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,455 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,925 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 * [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,998 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
-* [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,885 | 🐛 60 | 🌐 Go | 📅 2023-04-10
+* [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,886 | 🐛 60 | 🌐 Go | 📅 2023-04-10
 * [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,058 | 🐛 69 | 🌐 Go | 📅 2024-04-26
 * [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,997 | 🐛 39 | 🌐 Rust | 📅 2023-12-23
 * [Emacs org-mode package](https://github.com/rksm/org-ai) ⭐ 822 | 🐛 45 | 🌐 Emacs Lisp | 📅 2026-01-07
@@ -88,12 +88,12 @@
 
 ### Cybersecurity
 
-* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,156 | 🐛 7 | 🌐 Go | 📅 2026-08-21
+* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,161 | 🐛 6 | 🌐 Go | 📅 2026-08-24
 * [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-02-01
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,796 | 🐛 68 | 🌐 HTML | 📅 2026-08-23
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,850 | 🐛 69 | 🌐 HTML | 📅 2026-08-24
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***
@@ -104,4 +104,4 @@ This list started as personal collection of interesting things about chatGPT fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

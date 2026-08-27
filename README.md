@@ -36,7 +36,7 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,456 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,460 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,925 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 * [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 4,000 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
@@ -49,7 +49,7 @@
 * [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) ⭐ 613 | 🐛 8 | 🌐 TypeScript | 📅 2024-05-02
 * [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension) ⭐ 459 | 🐛 4 | 🌐 HTML | 📅 2023-06-02
 * [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot) ⭐ 383 | 🐛 2 | 🌐 Python | 📅 2023-05-10
-* [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) ⭐ 322 | 🐛 3 | 🌐 Python | 📅 2023-09-22
+* [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) ⭐ 321 | 🐛 3 | 🌐 Python | 📅 2023-09-22
 * [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord) ⭐ 284 | 🐛 14 | 🌐 Go | 📅 2022-12-20
 * [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt) ⚠️ Archived
 * [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
@@ -74,15 +74,15 @@
 * [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain) ⭐ 1,424 | 🐛 18 | 🌐 Python | 📅 2024-12-20
 * [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt) ⭐ 918 | 🐛 8 | 🌐 Go | 📅 2023-03-27
 * [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation) ⭐ 653 | 🐛 8 | 🌐 Python | 📅 2022-12-06
-* [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-08-25
+* [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-08-27
 * [Assistant CLI](https://github.com/diciaup/assistant-cli) ⭐ 190 | 🐛 2 | 🌐 TypeScript | 📅 2023-01-21
-* [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-11
+* [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt) ⭐ 170 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-11
 * [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator) ⭐ 120 | 🐛 0 | 🌐 Python | 📅 2022-12-17
 * [Promptform: Run GPT in bulk](https://github.com/jasonstitt/promptform) ⭐ 8 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-27
 
 ### DevOps
 
-* [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac) ⭐ 3,786 | 🐛 2 | 🌐 Go | 📅 2026-03-24
+* [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac) ⭐ 3,786 | 🐛 3 | 🌐 Go | 📅 2026-03-24
 * [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) ⭐ 916 | 🐛 10 | 🌐 Python | 📅 2024-11-21
 * [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action) ⚠️ Archived
 
@@ -93,7 +93,7 @@
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,048 | 🐛 68 | 🌐 HTML | 📅 2026-08-27
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,081 | 🐛 68 | 🌐 HTML | 📅 2026-08-27
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***

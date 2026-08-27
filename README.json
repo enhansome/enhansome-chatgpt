@@ -15,7 +15,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27902
+            "stars": 27901
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54456
+            "stars": 54460
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2023-09-22T13:20:40Z",
             "owner": "franalgaba",
             "repo": "chatgpt-telegram-bot-serverless",
-            "stars": 322
+            "stars": 321
           }
         },
         {
@@ -531,7 +531,7 @@
             "archived": false,
             "id": 595042098,
             "language": "PHP",
-            "last_commit": "2026-08-25T02:40:08Z",
+            "last_commit": "2026-08-27T21:09:19Z",
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 394
@@ -564,7 +564,7 @@
             "last_commit": "2023-04-11T01:58:46Z",
             "owner": "tobiasbueschel",
             "repo": "search-gpt",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2023-09-09T18:16:11Z",
             "owner": "kxxt",
             "repo": "chatgpt-action",
-            "stars": 585
+            "stars": 586
           }
         }
       ],
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:34.319Z",
+    "last_updated": "2026-08-27T22:01:18.692Z",
     "original_repository_info": {
       "archived": false,
       "id": 574097989,

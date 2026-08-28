@@ -16,7 +16,8 @@
             "owner": "acheong08",
             "repo": "ChatGPT",
             "stars": 27901
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-02-11T04:50:03Z",
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18119
-          }
+            "stars": 18118
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4183
-          }
+            "stars": 4184
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "MisterJimson",
             "repo": "chatgpt_api_dart",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "AlmazDelDiablo",
             "repo": "gpt3-5-turbo-go",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         }
       ],
       "title": "API tools"
@@ -96,8 +101,9 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13050
-          }
+            "stars": 13051
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
             "stars": 6444
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "C-Nedelcu",
             "repo": "talk-to-chatgpt",
             "stars": 1929
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "liady",
             "repo": "ChatGPT-pdf",
             "stars": 1480
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "kazuki-sf",
             "repo": "ChatGPT_Extension",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "idosal",
             "repo": "assistant-chat-gpt",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         }
       ],
       "title": "Chrome Extensions"
@@ -192,8 +203,9 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54460
-          }
+            "stars": 54461
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
             "stars": 6261
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "mpociot",
             "repo": "chatgpt-vscode",
             "stars": 4925
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -237,8 +251,9 @@
             "last_commit": "2026-01-13T09:57:07Z",
             "owner": "jackMort",
             "repo": "ChatGPT.nvim",
-            "stars": 4000
-          }
+            "stars": 4001
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "m1guelpf",
             "repo": "chatgpt-telegram",
             "stars": 3886
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "danielgross",
             "repo": "whatsapp-gpt",
             "stars": 3059
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "sonnylazuardi",
             "repo": "chat-ai-desktop",
             "stars": 1997
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "rksm",
             "repo": "org-ai",
             "stars": 822
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "transitive-bullshit",
             "repo": "chatgpt-twitter-bot",
             "stars": 757
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "cesarhuret",
             "repo": "docGPT",
             "stars": 671
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -342,8 +363,9 @@
             "last_commit": "2024-05-02T12:06:50Z",
             "owner": "abielzulio",
             "repo": "chatgpt-raycast",
-            "stars": 613
-          }
+            "stars": 614
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "kazuki-sf",
             "repo": "ChatGPT_Extension",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "pedrorito",
             "repo": "ChatGPTSlackBot",
             "stars": 383
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "franalgaba",
             "repo": "chatgpt-telegram-bot-serverless",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "m1guelpf",
             "repo": "chatgpt-discord",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "LiLittleCat",
             "repo": "intellij-chatgpt",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         }
       ],
       "title": "Access ChatGPT from other platforms"
@@ -439,7 +466,8 @@
             "owner": "shobrook",
             "repo": "adrenaline",
             "stars": 3742
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "trzy",
             "repo": "ChatARKit",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "simplysabir",
             "repo": "AI-Writing-Assistant",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         }
       ],
       "title": "Applications"
@@ -489,8 +519,9 @@
             "last_commit": "2024-12-20T22:03:43Z",
             "owner": "shobrook",
             "repo": "wut",
-            "stars": 1424
-          }
+            "stars": 1423
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "williamfzc",
             "repo": "chat-gpt-ppt",
             "stars": 918
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "platelminto",
             "repo": "chatgpt-conversation",
             "stars": 653
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "diciaup",
             "repo": "assistant-cli",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "tobiasbueschel",
             "repo": "search-gpt",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "nicolaballotta",
             "repo": "gpt3-wordpress-post-generator",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "jasonstitt",
             "repo": "promptform",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         }
       ],
       "title": "CLI tools"
@@ -615,8 +653,9 @@
             "last_commit": "2026-03-24T10:56:24Z",
             "owner": "gofireflyio",
             "repo": "aiac",
-            "stars": 3786
-          }
+            "stars": 3787
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "robusta-dev",
             "repo": "kubernetes-chatgpt-bot",
             "stars": 916
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -645,8 +685,9 @@
             "last_commit": "2023-09-09T18:16:11Z",
             "owner": "kxxt",
             "repo": "chatgpt-action",
-            "stars": 586
-          }
+            "stars": 587
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         }
       ],
       "title": "DevOps"
@@ -666,8 +707,9 @@
             "last_commit": "2026-08-24T06:41:15Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2166
-          }
+            "stars": 2167
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         },
         {
           "node_type": "item",
@@ -682,14 +724,15 @@
             "owner": "Stratus-Security",
             "repo": "FinGen",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:57:30.017Z"
         }
       ],
       "title": "Cybersecurity"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:01:18.692Z",
+    "last_updated": "2026-08-28T21:57:30.017Z",
     "original_repository_info": {
       "archived": false,
       "id": 574097989,

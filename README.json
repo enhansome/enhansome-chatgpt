@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27901,
+            "stars": 27900,
             "topics": [
               "chatgpt",
               "cli",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18116,
+            "stars": 18115,
             "topics": [
               "agents",
               "ai",
@@ -147,7 +147,7 @@
             "open_issues": 106,
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13050,
+            "stars": 13049,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -295,10 +295,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2024-08-29T17:58:11Z",
-            "open_issues": 942,
+            "open_issues": 943,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54468,
+            "stars": 54471,
             "topics": [
               "ai",
               "app",
@@ -335,7 +335,7 @@
             "open_issues": 93,
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6261,
+            "stars": 6260,
             "topics": [
               "chatgpt",
               "gpt-3",
@@ -493,7 +493,7 @@
             "open_issues": 45,
             "owner": "rksm",
             "repo": "org-ai",
-            "stars": 822,
+            "stars": 821,
             "topics": [
               "ai",
               "chatgpt",
@@ -1107,11 +1107,11 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-24T06:41:15Z",
+            "last_commit": "2026-08-31T10:11:50Z",
             "open_issues": 6,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:21:39.365Z",
+    "last_updated": "2026-08-31T18:57:54.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1172,10 +1172,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-15T20:35:53Z",
-      "open_issues": 141,
+      "open_issues": 143,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
-      "stars": 8203,
+      "stars": 8204,
       "topics": [
         "chatgpt",
         "gpt-3",

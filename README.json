@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27897,
+            "stars": 27899,
             "topics": [
               "chatgpt",
               "cli",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18114,
+            "stars": 18115,
             "topics": [
               "agents",
               "ai",
@@ -74,7 +74,7 @@
             "open_issues": 36,
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4184,
+            "stars": 4185,
             "topics": [
               "chatgpt",
               "openai",
@@ -173,7 +173,7 @@
             "open_issues": 96,
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6443,
+            "stars": 6442,
             "topics": [
               "ai",
               "browser-extension",
@@ -298,7 +298,7 @@
             "open_issues": 944,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54482,
+            "stars": 54484,
             "topics": [
               "ai",
               "app",
@@ -335,7 +335,7 @@
             "open_issues": 93,
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6261,
+            "stars": 6259,
             "topics": [
               "chatgpt",
               "gpt-3",
@@ -410,7 +410,7 @@
             "open_issues": 60,
             "owner": "m1guelpf",
             "repo": "chatgpt-telegram",
-            "stars": 3884,
+            "stars": 3882,
             "topics": [
               "gpt-3",
               "gptchat",
@@ -569,7 +569,7 @@
             "open_issues": 8,
             "owner": "abielzulio",
             "repo": "chatgpt-raycast",
-            "stars": 615,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-28T21:57:30.017Z"
@@ -867,7 +867,7 @@
             "id": 595042098,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:11:04Z",
+            "last_commit": "2026-09-04T21:08:56Z",
             "open_issues": 0,
             "owner": "guanguans",
             "repo": "ai-commit",
@@ -1077,7 +1077,7 @@
             "open_issues": 14,
             "owner": "kxxt",
             "repo": "chatgpt-action",
-            "stars": 587,
+            "stars": 589,
             "topics": [
               "automation",
               "chat-gpt",
@@ -1107,11 +1107,11 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T14:15:44Z",
+            "last_commit": "2026-09-04T16:24:47Z",
             "open_issues": 6,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:01:52.022Z",
+    "last_updated": "2026-09-05T14:52:25.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",

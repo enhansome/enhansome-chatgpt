@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27891,
+            "stars": 27890,
             "topics": [
               "chatgpt",
               "cli",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18110,
+            "stars": 18109,
             "topics": [
               "agents",
               "ai",
@@ -298,7 +298,7 @@
             "open_issues": 945,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54516,
+            "stars": 54520,
             "topics": [
               "ai",
               "app",
@@ -384,7 +384,7 @@
             "open_issues": 112,
             "owner": "jackMort",
             "repo": "ChatGPT.nvim",
-            "stars": 3998,
+            "stars": 3997,
             "topics": [
               "chatgpt",
               "neovim",
@@ -457,7 +457,7 @@
             "open_issues": 39,
             "owner": "sonnylazuardi",
             "repo": "chat-ai-desktop",
-            "stars": 1997,
+            "stars": 1996,
             "topics": [
               "ai",
               "chatgpt",
@@ -1077,7 +1077,7 @@
             "open_issues": 14,
             "owner": "kxxt",
             "repo": "chatgpt-action",
-            "stars": 592,
+            "stars": 593,
             "topics": [
               "automation",
               "chat-gpt",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:17:08.113Z",
+    "last_updated": "2026-09-13T15:53:37.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1172,10 +1172,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-15T20:35:53Z",
-      "open_issues": 146,
+      "open_issues": 145,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
-      "stars": 8205,
+      "stars": 8204,
       "topics": [
         "chatgpt",
         "gpt-3",

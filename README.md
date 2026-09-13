@@ -36,13 +36,13 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,516 | 🐛 945 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,520 | 🐛 945 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,922 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
-* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,998 | 🐛 112 | 🌐 Lua | 📅 2026-01-13
+* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,997 | 🐛 112 | 🌐 Lua | 📅 2026-01-13
 * [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,882 | 🐛 60 | 🌐 Go | 📅 2023-04-10
 * [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,058 | 🐛 68 | 🌐 Go | 📅 2024-04-26
-* [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,997 | 🐛 39 | 🌐 Rust | 📅 2023-12-23
+* [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,996 | 🐛 39 | 🌐 Rust | 📅 2023-12-23
 * [Emacs org-mode package](https://github.com/rksm/org-ai) ⭐ 822 | 🐛 45 | 🌐 Emacs Lisp | 📅 2026-01-07
 * [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) ⭐ 756 | 🐛 3 | 🌐 TypeScript | 📅 2024-07-22 powered by ChatGPT
 * [Google docs](https://github.com/cesarhuret/docGPT) ⚠️ Archived
@@ -93,7 +93,7 @@
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,092 | 🐛 78 | 🌐 HTML | 📅 2026-09-09
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,219 | 🐛 78 | 🌐 HTML | 📅 2026-09-09
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***
@@ -104,4 +104,4 @@ This list started as personal collection of interesting things about chatGPT fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

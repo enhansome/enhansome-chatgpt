@@ -36,7 +36,7 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,551 | 🐛 948 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,558 | 🐛 948 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,920 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 * [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,996 | 🐛 112 | 🌐 Lua | 📅 2026-01-13
@@ -46,7 +46,7 @@
 * [Emacs org-mode package](https://github.com/rksm/org-ai) ⭐ 821 | 🐛 46 | 🌐 Emacs Lisp | 📅 2026-01-07
 * [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) ⭐ 756 | 🐛 3 | 🌐 TypeScript | 📅 2024-07-22 powered by ChatGPT
 * [Google docs](https://github.com/cesarhuret/docGPT) ⚠️ Archived
-* [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) ⭐ 613 | 🐛 8 | 🌐 TypeScript | 📅 2024-05-02
+* [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) ⭐ 614 | 🐛 8 | 🌐 TypeScript | 📅 2024-05-02
 * [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension) ⭐ 458 | 🐛 4 | 🌐 HTML | 📅 2023-06-02
 * [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot) ⭐ 384 | 🐛 2 | 🌐 Python | 📅 2023-05-10
 * [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) ⭐ 321 | 🐛 4 | 🌐 Python | 📅 2023-09-22
@@ -71,7 +71,7 @@
 
 ### CLI tools
 
-* [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain) ⭐ 1,425 | 🐛 18 | 🌐 Python | 📅 2024-12-20
+* [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain) ⭐ 1,424 | 🐛 18 | 🌐 Python | 📅 2024-12-20
 * [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt) ⭐ 919 | 🐛 8 | 🌐 Go | 📅 2023-03-27
 * [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation) ⭐ 653 | 🐛 8 | 🌐 Python | 📅 2022-12-06
 * [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-09-17
@@ -93,7 +93,7 @@
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,900 | 🐛 78 | 🌐 HTML | 📅 2026-09-09
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,979 | 🐛 78 | 🌐 HTML | 📅 2026-09-09
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***
@@ -104,4 +104,4 @@ This list started as personal collection of interesting things about chatGPT fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

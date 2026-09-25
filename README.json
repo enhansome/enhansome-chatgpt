@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27890,
+            "stars": 27889,
             "topics": [
               "chatgpt",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 36,
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4186,
+            "stars": 4185,
             "topics": [
               "chatgpt",
               "openai",
@@ -173,7 +173,7 @@
             "open_issues": 96,
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6432,
+            "stars": 6433,
             "topics": [
               "ai",
               "browser-extension",
@@ -224,7 +224,7 @@
             "open_issues": 34,
             "owner": "liady",
             "repo": "ChatGPT-pdf",
-            "stars": 1476,
+            "stars": 1477,
             "topics": []
           },
           "first_seen": "2026-08-28T21:57:30.017Z"
@@ -245,7 +245,7 @@
             "open_issues": 4,
             "owner": "kazuki-sf",
             "repo": "ChatGPT_Extension",
-            "stars": 457,
+            "stars": 458,
             "topics": [
               "chatgpt",
               "chrome-extension",
@@ -298,7 +298,7 @@
             "open_issues": 948,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54563,
+            "stars": 54565,
             "topics": [
               "ai",
               "app",
@@ -457,7 +457,7 @@
             "open_issues": 39,
             "owner": "sonnylazuardi",
             "repo": "chat-ai-desktop",
-            "stars": 1996,
+            "stars": 1997,
             "topics": [
               "ai",
               "chatgpt",
@@ -590,7 +590,7 @@
             "open_issues": 4,
             "owner": "kazuki-sf",
             "repo": "ChatGPT_Extension",
-            "stars": 457,
+            "stars": 458,
             "topics": [
               "chatgpt",
               "chrome-extension",
@@ -850,7 +850,7 @@
             "open_issues": 8,
             "owner": "platelminto",
             "repo": "chatgpt-conversation",
-            "stars": 653,
+            "stars": 652,
             "topics": []
           },
           "first_seen": "2026-08-28T21:57:30.017Z"
@@ -1107,8 +1107,8 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T13:39:53Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-25T10:12:18Z",
+            "open_issues": 6,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
             "stars": 2179,
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T16:48:49.288Z",
+    "last_updated": "2026-09-25T16:53:33.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1172,7 +1172,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-15T20:35:53Z",
-      "open_issues": 149,
+      "open_issues": 148,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
       "stars": 8202,

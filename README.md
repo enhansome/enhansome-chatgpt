@@ -36,7 +36,7 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,565 | 🐛 948 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,574 | 🐛 948 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,918 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 * [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,996 | 🐛 112 | 🌐 Lua | 📅 2026-01-13
@@ -82,18 +82,18 @@
 
 ### DevOps
 
-* [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac) ⭐ 3,787 | 🐛 3 | 🌐 Go | 📅 2026-03-24
+* [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac) ⭐ 3,788 | 🐛 3 | 🌐 Go | 📅 2026-03-24
 * [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) ⭐ 915 | 🐛 10 | 🌐 Python | 📅 2024-11-21
 * [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action) ⚠️ Archived
 
 ### Cybersecurity
 
-* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,179 | 🐛 6 | 🌐 Go | 📅 2026-09-25
+* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,181 | 🐛 8 | 🌐 Go | 📅 2026-09-25
 * [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-02-01
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,248 | 🐛 82 | 🌐 HTML | 📅 2026-09-09
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,314 | 🐛 82 | 🌐 HTML | 📅 2026-09-09
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***
@@ -104,4 +104,4 @@ This list started as personal collection of interesting things about chatGPT fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

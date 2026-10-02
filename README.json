@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27887,
+            "stars": 27888,
             "topics": [
               "chatgpt",
               "cli",
@@ -74,7 +74,7 @@
             "open_issues": 36,
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4186,
+            "stars": 4185,
             "topics": [
               "chatgpt",
               "openai",
@@ -173,7 +173,7 @@
             "open_issues": 96,
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6430,
+            "stars": 6431,
             "topics": [
               "ai",
               "browser-extension",
@@ -201,7 +201,7 @@
             "open_issues": 95,
             "owner": "C-Nedelcu",
             "repo": "talk-to-chatgpt",
-            "stars": 1926,
+            "stars": 1927,
             "topics": [
               "chatgpt"
             ]
@@ -298,7 +298,7 @@
             "open_issues": 950,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54584,
+            "stars": 54585,
             "topics": [
               "ai",
               "app",
@@ -457,7 +457,7 @@
             "open_issues": 39,
             "owner": "sonnylazuardi",
             "repo": "chat-ai-desktop",
-            "stars": 1997,
+            "stars": 1998,
             "topics": [
               "ai",
               "chatgpt",
@@ -868,7 +868,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-17T00:14:54Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 394,
@@ -1019,7 +1019,7 @@
             "open_issues": 3,
             "owner": "gofireflyio",
             "repo": "aiac",
-            "stars": 3787,
+            "stars": 3788,
             "topics": [
               "ai",
               "amazon-bedrock",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:14:40.244Z",
+    "last_updated": "2026-10-02T17:40:12.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1172,10 +1172,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-15T20:35:53Z",
-      "open_issues": 149,
+      "open_issues": 150,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
-      "stars": 8203,
+      "stars": 8204,
       "topics": [
         "chatgpt",
         "gpt-3",

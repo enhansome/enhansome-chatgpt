@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Unofficial API in Python",
-          "description": null,
+          "description": "acheong08/ChatGPT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27888,
+            "stars": 27889,
             "topics": [
               "chatgpt",
               "cli",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Unofficial API in JS/TS",
-          "description": null,
+          "description": "transitive-bullshit/agentic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18104,
+            "stars": 18102,
             "topics": [
               "agents",
               "ai",
@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "TLS-based API (Python)",
-          "description": null,
+          "description": "rawandahmad698/PyChatGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -86,7 +86,7 @@
         {
           "node_type": "item",
           "title": "Unofficial API in Dart",
-          "description": null,
+          "description": "MisterJimson/chatgpt_api_dart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -107,7 +107,7 @@
         {
           "node_type": "item",
           "title": "ChatGPT (GPT-3.5-turbo) API Client in Golang",
-          "description": null,
+          "description": "AlmazDelDiablo/gpt3-5-turbo-go",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -134,7 +134,7 @@
         {
           "node_type": "item",
           "title": "Extension to display ChatGPT response alongside Google Search results",
-          "description": null,
+          "description": "wong2/chatgpt-google-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "WebChatGPT - augment your prompts to ChatGPT with web search results",
-          "description": null,
+          "description": "interstellard/chatgpt-advanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -188,7 +188,7 @@
         {
           "node_type": "item",
           "title": "Talk to ChatGPT (voice interface)",
-          "description": null,
+          "description": "C-Nedelcu/talk-to-chatgpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link",
-          "description": ")",
+          "description": "liady/ChatGPT-pdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -232,7 +232,7 @@
         {
           "node_type": "item",
           "title": "Chrome extension to access ChatGPT as a popup on any page",
-          "description": null,
+          "description": "kazuki-sf/ChatGPT_Extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -258,7 +258,7 @@
         {
           "node_type": "item",
           "title": "ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background",
-          "description": null,
+          "description": "idosal/assistant-chat-gpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,7 +322,7 @@
         {
           "node_type": "item",
           "title": "Mac menubar app",
-          "description": null,
+          "description": "vincelwt/chatgpt-mac",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -335,7 +335,7 @@
             "open_issues": 93,
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6254,
+            "stars": 6253,
             "topics": [
               "chatgpt",
               "gpt-3",
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "VSCode extension",
-          "description": "(demo)",
+          "description": "mpociot/chatgpt-vscode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "Neovim plugin",
-          "description": null,
+          "description": "jackMort/ChatGPT.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -397,7 +397,7 @@
         {
           "node_type": "item",
           "title": "Go Telegram bot",
-          "description": null,
+          "description": "m1guelpf/chatgpt-telegram",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -423,7 +423,7 @@
         {
           "node_type": "item",
           "title": "WhatsApp bot",
-          "description": null,
+          "description": "danielgross/whatsapp-gpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -444,7 +444,7 @@
         {
           "node_type": "item",
           "title": "Windows, Mac, Linux desktop app",
-          "description": null,
+          "description": "sonnylazuardi/chat-ai-desktop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -480,7 +480,7 @@
         {
           "node_type": "item",
           "title": "Emacs org-mode package",
-          "description": null,
+          "description": "rksm/org-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "Google docs",
-          "description": null,
+          "description": "cesarhuret/docGPT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -556,7 +556,7 @@
         {
           "node_type": "item",
           "title": "RayCast Extension (unofficial)",
-          "description": null,
+          "description": "abielzulio/chatgpt-raycast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -577,7 +577,7 @@
         {
           "node_type": "item",
           "title": "Chrome extension",
-          "description": null,
+          "description": "kazuki-sf/ChatGPT_Extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -603,7 +603,7 @@
         {
           "node_type": "item",
           "title": "ChatGPT for Slack Bot",
-          "description": null,
+          "description": "pedrorito/ChatGPTSlackBot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -624,7 +624,7 @@
         {
           "node_type": "item",
           "title": "Serverless Telegram bot",
-          "description": null,
+          "description": "franalgaba/chatgpt-telegram-bot-serverless",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,7 +650,7 @@
         {
           "node_type": "item",
           "title": "ChatGPT for Discord Bot",
-          "description": null,
+          "description": "m1guelpf/chatgpt-discord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -671,7 +671,7 @@
         {
           "node_type": "item",
           "title": "Jetbrains IDEs plugin",
-          "description": null,
+          "description": "LiLittleCat/intellij-chatgpt",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -703,7 +703,7 @@
         {
           "node_type": "item",
           "title": "Adrenaline: Debugger that fixes errors and explains them with GPT-3",
-          "description": null,
+          "description": "shobrook/adrenaline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language",
-          "description": null,
+          "description": "trzy/ChatARKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -753,7 +753,7 @@
         {
           "node_type": "item",
           "title": "GPT3 Blog Post Generator",
-          "description": null,
+          "description": "simplysabir/AI-Writing-Assistant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -789,7 +789,7 @@
         {
           "node_type": "item",
           "title": "Explain your runtime errors with ChatGPT",
-          "description": null,
+          "description": "shobrook/wut",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -810,7 +810,7 @@
         {
           "node_type": "item",
           "title": "Use ChatGPT to generate PPT automatically, all in one single file",
-          "description": null,
+          "description": "williamfzc/chat-gpt-ppt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -837,7 +837,7 @@
         {
           "node_type": "item",
           "title": "Voice-based chatGPT",
-          "description": null,
+          "description": "platelminto/chatgpt-conversation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -858,7 +858,7 @@
         {
           "node_type": "item",
           "title": "AI Commit - Automagically generate conventional commit messages with AI",
-          "description": null,
+          "description": "guanguans/ai-commit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -900,7 +900,7 @@
         {
           "node_type": "item",
           "title": "Assistant CLI",
-          "description": null,
+          "description": "diciaup/assistant-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -927,7 +927,7 @@
         {
           "node_type": "item",
           "title": "SearchGPT: Connecting ChatGPT with the Internet",
-          "description": null,
+          "description": "tobiasbueschel/search-gpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -953,7 +953,7 @@
         {
           "node_type": "item",
           "title": "GPT3 WordPress post generator",
-          "description": null,
+          "description": "nicolaballotta/gpt3-wordpress-post-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -974,7 +974,7 @@
         {
           "node_type": "item",
           "title": "Promptform: Run GPT in bulk",
-          "description": null,
+          "description": "jasonstitt/promptform",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1006,7 +1006,7 @@
         {
           "node_type": "item",
           "title": "AI-powered Infrastructure-as-Code Generator",
-          "description": null,
+          "description": "gofireflyio/aiac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1037,7 +1037,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes and Prometheus ChatGPT Bot",
-          "description": null,
+          "description": "robusta-dev/kubernetes-chatgpt-bot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1064,7 +1064,7 @@
         {
           "node_type": "item",
           "title": "ChatGPT Code Review",
-          "description": null,
+          "description": "kxxt/chatgpt-action",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1077,7 +1077,7 @@
             "open_issues": 14,
             "owner": "kxxt",
             "repo": "chatgpt-action",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "automation",
               "chat-gpt",
@@ -1098,7 +1098,7 @@
         {
           "node_type": "item",
           "title": "Beelzebub ChatGPT Honeypot",
-          "description": null,
+          "description": "beelzebub-labs/beelzebub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1111,7 +1111,7 @@
             "open_issues": 8,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2188,
+            "stars": 2189,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -1140,7 +1140,7 @@
         {
           "node_type": "item",
           "title": "Penetration Testing Findings Generator",
-          "description": null,
+          "description": "Stratus-Security/FinGen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:40:12.725Z",
+    "last_updated": "2026-10-03T04:40:42.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1172,7 +1172,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-15T20:35:53Z",
-      "open_issues": 150,
+      "open_issues": 151,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
       "stars": 8204,

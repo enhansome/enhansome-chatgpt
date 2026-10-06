@@ -26,8 +26,8 @@
 
 ### Chrome Extensions
 
-* [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,041 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14
-* [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,426 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13
+* [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,037 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14
+* [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,424 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13
 * [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt) ⭐ 1,928 | 🐛 95 | 🌐 JavaScript | 📅 2024-05-19
 * [Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link](https://github.com/liady/ChatGPT-pdf) ⭐ 1,477 | 🐛 34 | 🌐 JavaScript | 📅 2023-04-12)
 * [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension) ⭐ 457 | 🐛 4 | 🌐 HTML | 📅 2023-06-02
@@ -36,10 +36,10 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,589 | 🐛 949 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,587 | 🐛 949 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,916 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
-* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,995 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
+* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,993 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
 * [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,881 | 🐛 60 | 🌐 Go | 📅 2023-04-10
 * [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,055 | 🐛 68 | 🌐 Go | 📅 2024-04-26
 * [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,999 | 🐛 39 | 🌐 Rust | 📅 2023-12-23
@@ -93,7 +93,7 @@
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,129 | 🐛 84 | 🌐 HTML | 📅 2026-10-03
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,180 | 🐛 84 | 🌐 HTML | 📅 2026-10-03
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***

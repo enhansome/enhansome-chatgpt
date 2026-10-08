@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27898,
+            "stars": 27899,
             "topics": [
               "chatgpt",
               "cli",
@@ -295,10 +295,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2024-08-29T17:58:11Z",
-            "open_issues": 950,
+            "open_issues": 949,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54592,
+            "stars": 54596,
             "topics": [
               "ai",
               "app",
@@ -335,7 +335,7 @@
             "open_issues": 93,
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6250,
+            "stars": 6251,
             "topics": [
               "chatgpt",
               "gpt-3",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T18:40:52.677Z",
+    "last_updated": "2026-10-08T18:39:16.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1172,7 +1172,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-15T20:35:53Z",
-      "open_issues": 152,
+      "open_issues": 151,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
       "stars": 8204,

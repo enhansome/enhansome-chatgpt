@@ -36,10 +36,10 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,668 | 🐛 956 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,672 | 🐛 956 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
-* [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,917 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
-* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,990 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
+* [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,918 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,989 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
 * [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,881 | 🐛 60 | 🌐 Go | 📅 2023-04-10
 * [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,054 | 🐛 68 | 🌐 Go | 📅 2024-04-26
 * [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 2,000 | 🐛 39 | 🌐 Rust | 📅 2023-12-23
@@ -64,7 +64,7 @@
 
 ### Applications
 
-* [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/) ⭐ 3,733 | 🐛 0 | 📅 2024-03-08
+* [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/) ⭐ 3,735 | 🐛 0 | 📅 2024-03-08
 * [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit) ⭐ 442 | 🐛 1 | 🌐 C | 📅 2023-03-31
 * [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant) ⭐ 167 | 🐛 1 | 🌐 CSS | 📅 2025-03-06
 * [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
@@ -88,12 +88,12 @@
 
 ### Cybersecurity
 
-* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,222 | 🐛 11 | 🌐 Go | 📅 2026-10-28
+* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,224 | 🐛 11 | 🌐 Go | 📅 2026-10-28
 * [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-02-01
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 175,246 | 🐛 79 | 🌐 HTML | 📅 2026-10-30
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 175,413 | 🐛 79 | 🌐 HTML | 📅 2026-10-31
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***
@@ -104,4 +104,4 @@ This list started as personal collection of interesting things about chatGPT fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

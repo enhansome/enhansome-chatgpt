@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27990,
+            "stars": 27992,
             "topics": [
               "chatgpt",
               "cli",
@@ -147,7 +147,7 @@
             "open_issues": 106,
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13018,
+            "stars": 13019,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -201,7 +201,7 @@
             "open_issues": 94,
             "owner": "C-Nedelcu",
             "repo": "talk-to-chatgpt",
-            "stars": 1925,
+            "stars": 1926,
             "topics": [
               "chatgpt"
             ]
@@ -298,7 +298,7 @@
             "open_issues": 957,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54660,
+            "stars": 54663,
             "topics": [
               "ai",
               "app",
@@ -1019,7 +1019,7 @@
             "open_issues": 3,
             "owner": "gofireflyio",
             "repo": "aiac",
-            "stars": 3783,
+            "stars": 3784,
             "topics": [
               "ai",
               "amazon-bedrock",
@@ -1111,7 +1111,7 @@
             "open_issues": 12,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2230,
+            "stars": 2232,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:33:29.084Z",
+    "last_updated": "2026-11-05T19:42:45.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1175,7 +1175,7 @@
       "open_issues": 158,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
-      "stars": 8207,
+      "stars": 8208,
       "topics": [
         "chatgpt",
         "gpt-3",

@@ -20,14 +20,14 @@
 
 * [Unofficial API in Python](https://github.com/acheong08/ChatGPT) ⚠️ Archived
 * [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) ⚠️ Archived
-* [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) ⭐ 4,183 | 🐛 36 | 🌐 Python | 📅 2026-07-19
+* [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) ⭐ 4,182 | 🐛 36 | 🌐 Python | 📅 2026-07-19
 * [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) ⭐ 56 | 🐛 0 | 🌐 C++ | 📅 2022-12-06
 * [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go) ⚠️ Archived
 
 ### Chrome Extensions
 
-* [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,016 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14
-* [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,423 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13
+* [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,015 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14
+* [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,422 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13
 * [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt) ⭐ 1,926 | 🐛 94 | 🌐 JavaScript | 📅 2024-05-19
 * [Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link](https://github.com/liady/ChatGPT-pdf) ⭐ 1,477 | 🐛 35 | 🌐 JavaScript | 📅 2023-04-12)
 * [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension) ⭐ 458 | 🐛 4 | 🌐 HTML | 📅 2023-06-02
@@ -36,10 +36,10 @@
 
 ### Access ChatGPT from other platforms
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,664 | 🐛 957 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,661 | 🐛 957 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
 * [Mac menubar app](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,915 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
-* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,987 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
+* [Neovim plugin](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,988 | 🐛 111 | 🌐 Lua | 📅 2026-01-13
 * [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,879 | 🐛 60 | 🌐 Go | 📅 2023-04-10
 * [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,056 | 🐛 68 | 🌐 Go | 📅 2024-04-26
 * [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,997 | 🐛 39 | 🌐 Rust | 📅 2023-12-23
@@ -88,12 +88,12 @@
 
 ### Cybersecurity
 
-* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,230 | 🐛 12 | 🌐 Go | 📅 2026-11-03
+* [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) ⭐ 2,232 | 🐛 12 | 🌐 Go | 📅 2026-11-03
 * [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-02-01
 
 ### Example prompts
 
-* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 176,020 | 🐛 82 | 🌐 MDX | 📅 2026-11-06
+* [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 176,201 | 🐛 81 | 🌐 MDX | 📅 2026-11-07
   ... just follow [@goodside](https://twitter.com/goodside)
 
 ***
@@ -104,4 +104,4 @@ This list started as personal collection of interesting things about chatGPT fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

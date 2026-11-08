@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27991,
+            "stars": 27987,
             "topics": [
               "chatgpt",
               "cli",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18084,
+            "stars": 18085,
             "topics": [
               "agents",
               "ai",
@@ -298,7 +298,7 @@
             "open_issues": 957,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54661,
+            "stars": 54663,
             "topics": [
               "ai",
               "app",
@@ -716,7 +716,7 @@
             "open_issues": 0,
             "owner": "shobrook",
             "repo": "adrenaline",
-            "stars": 3737,
+            "stars": 3736,
             "topics": [
               "ai",
               "chatbot",
@@ -1077,7 +1077,7 @@
             "open_issues": 14,
             "owner": "kxxt",
             "repo": "chatgpt-action",
-            "stars": 667,
+            "stars": 671,
             "topics": [
               "automation",
               "chat-gpt",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:37:28.246Z",
+    "last_updated": "2026-11-08T17:47:23.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
@@ -1175,7 +1175,7 @@
       "open_issues": 159,
       "owner": "humanloop",
       "repo": "awesome-chatgpt",
-      "stars": 8209,
+      "stars": 8211,
       "topics": [
         "chatgpt",
         "gpt-3",

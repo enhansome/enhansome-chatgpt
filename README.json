@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 28009,
+            "stars": 28010,
             "topics": [
               "chatgpt",
               "cli",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18082,
+            "stars": 18081,
             "topics": [
               "agents",
               "ai",
@@ -147,7 +147,7 @@
             "open_issues": 106,
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13001,
+            "stars": 13000,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -173,7 +173,7 @@
             "open_issues": 96,
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6413,
+            "stars": 6412,
             "topics": [
               "ai",
               "browser-extension",
@@ -201,7 +201,7 @@
             "open_issues": 94,
             "owner": "C-Nedelcu",
             "repo": "talk-to-chatgpt",
-            "stars": 1925,
+            "stars": 1924,
             "topics": [
               "chatgpt"
             ]
@@ -295,7 +295,7 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2024-08-29T17:58:11Z",
-            "open_issues": 965,
+            "open_issues": 967,
             "owner": "lencx",
             "repo": "ChatGPT",
             "stars": 54678,
@@ -335,7 +335,7 @@
             "open_issues": 93,
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6231,
+            "stars": 6229,
             "topics": [
               "chatgpt",
               "gpt-3",
@@ -384,7 +384,7 @@
             "open_issues": 111,
             "owner": "jackMort",
             "repo": "ChatGPT.nvim",
-            "stars": 3987,
+            "stars": 3986,
             "topics": [
               "chatgpt",
               "neovim",
@@ -716,7 +716,7 @@
             "open_issues": 0,
             "owner": "shobrook",
             "repo": "adrenaline",
-            "stars": 3732,
+            "stars": 3731,
             "topics": [
               "ai",
               "chatbot",
@@ -1077,7 +1077,7 @@
             "open_issues": 14,
             "owner": "kxxt",
             "repo": "chatgpt-action",
-            "stars": 713,
+            "stars": 715,
             "topics": [
               "automation",
               "chat-gpt",
@@ -1111,7 +1111,7 @@
             "open_issues": 12,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T23:37:09.700Z",
+    "last_updated": "2026-11-24T22:07:36.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
